@@ -73,7 +73,7 @@ Switch roles using the **Viewer / Admin toggle** in the sidebar.
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/findash.git
+git clone https://github.com/your-username/expense_UI.git
 cd findash
 
 # Install dependencies
