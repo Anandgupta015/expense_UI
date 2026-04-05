@@ -1,7 +1,7 @@
 # FinDash — Finance Dashboard UI
 ![image alt](https://github.com/Anandgupta015/expense_UI/blob/f9d5e5b5020b2aa1ebb2e4537997d339d03e5706/Screenshot%202026-04-05%20160037.png)
 ![image allt](https://github.com/Anandgupta015/expense_UI/blob/9de884caf29940083f3f65b2464a8488f1de2cf1/Screenshot%202026-04-05%20160054.png)
-
+![image alt](https://github.com/Anandgupta015/expense_UI/blob/45ba7630257e923e83155df321b1e6e1451eee64/Screenshot%202026-04-05%20160116.png)
 ![Dashboard](./Screenshot 2026-04-05 155743.png)
 
 A clean, interactive finance dashboard built with **React + Vite + Tailwind CSS + Recharts**.
