@@ -1,5 +1,6 @@
 # FinDash — Finance Dashboard UI
-![image alt](https://github.com/Anandgupta015/expense_UI/blob/f19ad3f385334ee546d549eeaf8caef8c2aa118f/Screenshot%202026-04-05%20155743.png)
+![image alt](https://github.com/Anandgupta015/expense_UI/blob/f9d5e5b5020b2aa1ebb2e4537997d339d03e5706/Screenshot%202026-04-05%20160037.png)
+
 
 ![Dashboard](./Screenshot 2026-04-05 155743.png)
 
