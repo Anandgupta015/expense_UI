@@ -1,5 +1,7 @@
 # FinDash — Finance Dashboard UI
 
+![Dashboard](./Screenshot 2026-04-05 155743.png)
+
 A clean, interactive finance dashboard built with **React + Vite + Tailwind CSS + Recharts**.
 
 ## Live Preview
